@@ -1,0 +1,38 @@
+{
+  "name": "creates-tasks-linear-when-agent",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@vercel/sandbox": "latest",
+    "@ai-sdk/react": "latest",
+    "ai": "latest",
+    "nanoid": "latest",
+    "@base-ui/react": "latest",
+    "motion": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest",
+    "class-variance-authority": "latest",
+    "lucide-react": "latest",
+    "streamdown": "latest",
+    "@streamdown/code": "latest",
+    "use-stick-to-bottom": "latest",
+    "shadcn": "latest",
+    "tw-animate-css": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@tailwindcss/postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
